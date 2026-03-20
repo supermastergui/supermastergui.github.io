@@ -18,8 +18,8 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = "🏠"
+    subtitle = "学生，爱好：编程、模拟飞行......"
     avatar   = "img/avatar.png"
 
 [article]
