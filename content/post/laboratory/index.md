@@ -2,7 +2,7 @@
 title: 实验室❌，胡闹厨房✅
 description: 幸亏化学实验室没炸
 slug: laboratory
-date: 2026-04-07 00:00:00+0000
+date: 2026-04-07 01:27:00+0800
 image: cover.jpg
 categories:
     - 学校
