@@ -1,8 +1,8 @@
 ---
 title: 如何在洋区飞行
 description: 手把手教学在洋区飞行
-slug: laboratory
-date: 2026-04-07 23:43:00+0800
+slug: flight-in-oceanic-area
+date: 2026-04-08 00:33:00+0800
 image: cover.jpg
 categories:
     - 游戏
