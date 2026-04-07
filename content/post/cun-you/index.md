@@ -1,5 +1,5 @@
 ---
-title: 初中的最后一次春游春游
+title: 初中的最后一次春游
 description: 非常快乐！ 
 slug: cun-you
 date: 2026-03-28 00:10:00+0800
