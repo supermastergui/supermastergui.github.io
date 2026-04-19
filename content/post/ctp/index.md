@@ -1,7 +1,7 @@
 ---
-title: CTP活动的介绍
-description: Cross The Pond 
-slug: Cross The Pond
+title: Cross The Pond
+description: CTP活动的介绍
+slug: Cross The Pond 
 date: 2026-04-19 00:34:00+0800
 image: cover.jpg
 categories:
